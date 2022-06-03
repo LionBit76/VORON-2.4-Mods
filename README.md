@@ -1,4 +1,8 @@
 # VORON-2.4-Mods
 Mods for VORON 2.4
 
-![This is an image](https://github.com/LionBit76/VORON-2.4-Mods/blob/main/Feet/Feet_x4.png)
+## VORON 2.4 r1 Feet with TPU-Insert:
+![This is an image](https://github.com/LionBit76/VORON-2.4-Mods/blob/main/img/feet.jpg)
+
+## Endcap for Misumi 2020 Extrusion:
+![This is an image](https://github.com/LionBit76/VORON-2.4-Mods/blob/main/img/endcap.jpg)
