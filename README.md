@@ -6,3 +6,6 @@ Mods for VORON 2.4
 
 ## Endcap for Misumi 2020 Extrusion:
 ![This is an image](https://github.com/LionBit76/VORON-2.4-Mods/blob/main/img/endcap.jpg)
+
+## PCB Kklicky + ADXL:
+![This is an image](https://github.com/LionBit76/VORON-2.4-Mods/blob/main/img/PCB_Klicky_ADXL_2.png)
