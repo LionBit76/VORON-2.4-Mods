@@ -9,3 +9,6 @@ Mods for VORON 2.4
 
 ## PCB Kklicky + ADXL:
 ![This is an image](https://github.com/LionBit76/VORON-2.4-Mods/blob/main/img/PCB_Klicky_ADXL_2.png)
+
+## PTFE Tube Guide:
+![This is an image](https://github.com/LionBit76/VORON-2.4-Mods/blob/main/PTFE-Guide/PTFE_Guide.jpg)
