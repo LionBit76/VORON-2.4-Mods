@@ -12,3 +12,6 @@ Mods for VORON 2.4
 
 ## PTFE Tube Guide:
 ![This is an image](https://github.com/LionBit76/VORON-2.4-Mods/blob/main/PTFE-Guide/PTFE_Guide.jpg)
+
+## 2-Relay-Board vertically DIN mount
+![This is an image](https://github.com/LionBit76/VORON-2.4-Mods/blob/main/2-Relay-Board-Vertically/2RelayBoardStand.png)
