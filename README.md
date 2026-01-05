@@ -15,3 +15,6 @@ Mods for VORON 2.4
 
 ## 2-Relay-Board vertically DIN mount
 ![This is an image](https://github.com/LionBit76/VORON-2.4-Mods/blob/main/2-Relay-Board-Vertically/2RelayBoardStand.png)
+
+## RaspberryPi vertically DIN mount
+![This is an image](https://github.com/LionBit76/VORON-2.4-Mods/blob/main/2-Relay-Board-Vertically/RPI_Stand_Mount.png)
