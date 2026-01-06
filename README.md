@@ -18,3 +18,6 @@ Mods for VORON 2.4
 
 ## RaspberryPi vertically DIN mount
 ![This is an image](https://github.com/LionBit76/VORON-2.4-Mods/blob/main/RaspberryPi-Vertically/RPI_Stand_Mount.png)
+
+## Bigtreetech KRAKEN Plug-In Cooler
+![This is an image](https://github.com/LionBit76/VORON-2.4-Mods/blob/main/BTT_Kraken_Cooler/Kraken_Cooler_CAD.png)
